@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/pranavddasari/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [1929-concatenation-of-array](https://github.com/pranavddasari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/pranavddasari/LeetCode/tree/main/0705-design-hashset/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/pranavddasari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
