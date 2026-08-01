@@ -31,11 +31,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/pranavddasari/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0705-design-hashset](https://github.com/pranavddasari/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [1929-concatenation-of-array](https://github.com/pranavddasari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/pranavddasari/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0705-design-hashset](https://github.com/pranavddasari/LeetCode/tree/main/0705-design-hashset/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -53,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/pranavddasari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/pranavddasari/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
